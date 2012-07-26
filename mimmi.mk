@@ -109,8 +109,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/etc/firmware/TIInit_7.2.31.bts:system/etc/firmware/TIInit_7.2.31.bts \
     $(LOCAL_PATH)/prebuilt/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     $(LOCAL_PATH)/prebuilt/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
-	$(LOCAL_PATH)/prebuilt/etc/firmware/cy8_truetouch_jtouch.hex:system/etc/firmware/cy8_truetouch_jtouch.hex \
-	$(LOCAL_PATH)/prebuilt/etc/firmware/cy8_truetouch_tpk.hex:system/etc/firmware/cy8_truetouch_tpk.hex \
+    $(LOCAL_PATH)/prebuilt/etc/firmware/cy8_truetouch_jtouch.hex:system/etc/firmware/cy8_truetouch_jtouch.hex \
+    $(LOCAL_PATH)/prebuilt/etc/firmware/cy8_truetouch_tpk.hex:system/etc/firmware/cy8_truetouch_tpk.hex \
     $(LOCAL_PATH)/prebuilt/etc/init.d/01mountext:system/etc/init.d/01mountext \
     $(LOCAL_PATH)/prebuilt/etc/init.d/10apps2sd:system/etc/init.d/10apps2sd \
     $(LOCAL_PATH)/prebuilt/etc/init.d/10dnsconf:system/etc/init.d/10dnsconf \
@@ -189,17 +189,17 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/lib/libwmsts.so:system/lib/libwmsts.so \
     $(LOCAL_PATH)/prebuilt/usr/idc/cy8ctma300_ser.idc:system/usr/idc/cy8ctma300_ser.idc \
     $(LOCAL_PATH)/prebuilt/usr/idc/mimmi_keypad.idc:system/usr/idc/mimmi_keypad.idc \
-	$(LOCAL_PATH)/prebuilt/usr/idc/qwerty.idc:system/usr/idc/qwerty.idc \
-	$(LOCAL_PATH)/prebuilt/usr/idc/qwerty2.idc:system/usr/idc/qwerty2.idc \
+    $(LOCAL_PATH)/prebuilt/usr/idc/qwerty.idc:system/usr/idc/qwerty.idc \
+    $(LOCAL_PATH)/prebuilt/usr/idc/qwerty2.idc:system/usr/idc/qwerty2.idc \
     $(LOCAL_PATH)/prebuilt/usr/keychars/mimmi_keypad.kcm.bin:system/usr/keychars/mimmi_keypad.kcm.bin \
-	$(LOCAL_PATH)/prebuilt/usr/keychars/qwerty.kcm:system/usr/keychars/qwerty.kcm \
-	$(LOCAL_PATH)/prebuilt/usr/keychars/qwerty.kcm.bin:system/usr/keychars/qwerty.kcm.bin \
-	$(LOCAL_PATH)/prebuilt/usr/keychars/qwerty2.kcm:system/usr/keychars/qwerty2.kcm \
+    $(LOCAL_PATH)/prebuilt/usr/keychars/qwerty.kcm:system/usr/keychars/qwerty.kcm \
+    $(LOCAL_PATH)/prebuilt/usr/keychars/qwerty.kcm.bin:system/usr/keychars/qwerty.kcm.bin \
+    $(LOCAL_PATH)/prebuilt/usr/keychars/qwerty2.kcm:system/usr/keychars/qwerty2.kcm \
     $(LOCAL_PATH)/prebuilt/usr/keychars/systemconnector.kcm.bin:system/usr/keychars/systemconnector.kcm.bin \
     $(LOCAL_PATH)/prebuilt/usr/keylayout/7k_handset.kl:system/usr/keylayout/7k_handset.kl \
     $(LOCAL_PATH)/prebuilt/usr/keylayout/h2w_headset.kl:system/usr/keylayout/h2w_headset.kl \
     $(LOCAL_PATH)/prebuilt/usr/keylayout/mimmi_keypad.kl:system/usr/keylayout/mimmi_keypad.kl \
-	$(LOCAL_PATH)/prebuilt/usr/keylayout/qwerty.kl:system/usr/keylayout/qwerty.kl \
+    $(LOCAL_PATH)/prebuilt/usr/keylayout/qwerty.kl:system/usr/keylayout/qwerty.kl \
     $(LOCAL_PATH)/prebuilt/usr/keylayout/systemconnector.kl:system/usr/keylayout/systemconnector.kl
 
 # Prebuilt Updater-script
