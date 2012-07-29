@@ -1,3 +1,4 @@
+app/Torch.apk
 bin/akmd2
 bin/chargemon
 bin/hciattach
@@ -33,7 +34,7 @@ lib/egl/libGLES_android.so
 lib/egl/libGLESv1_CM_adreno200.so
 lib/egl/libGLESv2_adreno200.so
 lib/egl/libq3dtools_adreno200.so
-lib/hw/lights.default.so
+lib/hw/lights.robyn.so
 lib/hw/sensors.delta.so
 lib/libauth.so
 lib/libC2D2.so
@@ -87,8 +88,8 @@ lib/libuim.so
 lib/libwms.so
 lib/libwmsts.so
 usr/idc/synaptics-rmi-touchscreen.idc
-usr/keychars/mimmi_keypad.kcm
+usr/keychars/robyn_keypad.kcm.bin
 usr/keylayout/7k_handset.kl
 usr/keylayout/AVRCP.kl
 usr/keylayout/h2w_headset.kl
-usr/keylayout/mimmi_keypad.kl
+usr/keylayout/robyn_keypad.kl
